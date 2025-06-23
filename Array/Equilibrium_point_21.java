@@ -1,6 +1,6 @@
 package Array;
 
-public class Equilibrium_point_20 {
+public class Equilibrium_point_21 {
     public static void main(String[] args) {
         int[] arr = {3,4,8,-9,9,7};
         boolean result = equilibriumPoint(arr);
